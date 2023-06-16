@@ -11,7 +11,7 @@ I previously had no experience with OpenGL. The closest I have ever come is to u
 
 •	What design process did you follow for your project work?
 
-I tried to accurately match the photographs I took of the scene, but I also needed to meet the Requirements as set out in the assignments. For example, the lighting in the room consisted of 7 LED lamps all wit the same color, but the assignment required a colored lamp – I added the colored lamp even though there is not one in the real scene.
+I tried to accurately match the photographs I took of the scene, but I also needed to meet the Requirements as set out in the assignments. For example, the lighting in the room consisted of 7 LED lamps all with the same color, but the assignment required a colored lamp – I added the colored lamp even though there is not one in the real scene.
 
 •	What new development strategies did you use while working on your 3D scene?
 
